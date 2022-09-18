@@ -8,6 +8,8 @@ All the GUI display function can be found at `gui.cpp` and `gui.h`, and where as
 ![Alt text](./both_2_2_window.png?raw=true)
 ![Alt text](./gui.png?raw=true)
 ![Alt text](./gui_2.png?raw=true)
+![alt text](https://github.com/[wl01618692]/BSpline-Bezier_demo/blob/main/add_back.jpg?raw=true)
+https://github.com/wl01618692/BSpline-Bezier_demo/blob/main/add_back.png
 
 
 ## Usage
